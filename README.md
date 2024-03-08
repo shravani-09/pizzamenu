@@ -1,7 +1,9 @@
 # Netlify Link
 https://deft-kleicha-42a2d3.netlify.app/
 
-![1694762703785](https://github.com/shravani-09/pizzamenu/assets/47971634/53a7d828-d7c6-42f2-8f82-611bb4630a7c)
+
+![image](https://github.com/shravani-09/pizzamenu/assets/47971634/63b7d925-e47a-4f81-a833-afb42f1de13f)
+
 
 
 # Getting Started with Create React App
